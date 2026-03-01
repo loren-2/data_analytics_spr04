@@ -12,6 +12,7 @@ The workflow follows a complete data engineering and analytics pipeline:
 
 The result is a fully functional database (`sales_track`) ready for business analysis.
 
+
 ## 📗 Level 1 — Database Construction and Data Loading
 
 This level covers all tasks required to set up the database environment:
@@ -27,6 +28,7 @@ This level covers all tasks required to set up the database environment:
 
 This level establishes the full data infrastructure needed for analysis.
 
+
 ## 📙 Level 2 — Analytical SQL Queries
 
 ### **Exercise 1 — Find most active Users**
@@ -39,12 +41,10 @@ This level establishes the full data infrastructure needed for analysis.
 - Identification of the company ID of Donec Ltd and inspection of all transactions associated with that company.
 - Analytical queries and calculation of the average spending per credit card for transactions made at Donec Ltd.
 
-## 🛠️ Stack, Tools, and Technologies Used
-
 ### **Language**
 - **SQL (MySQL dialect)** — used for schema creation, data loading, and analytical queries.
 
-### **Tools**
+### 🛠️ **Tools**
 - **MySQL Workbench**
 
 ### **Technologies**
